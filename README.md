@@ -10,9 +10,14 @@ Laravel Developer | Server & Hosting Support | Bug Fixer
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)  
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php)  
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)  
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=)
+
 
 ## 📈 GitHub Stats
 ![Nayeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=msrnayeem&show_icons=true&theme=radical)
