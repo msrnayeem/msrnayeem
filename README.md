@@ -22,7 +22,7 @@ Laravel Developer | Server & Hosting Support | Bug Fixer
 ## 📈 GitHub Stats
 ![Nayeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=msrnayeem&show_icons=true&theme=radical)
 
-## 🏆 Ongoing Project: [HRSoft](https://hrsoft.cloudvenus.net) (HR Management System)
+## 🏆 Ongoing Project: [HRSoft](https://payroll.metasoftbd.com) (HR Management System)
 I’m building **HRSoft**, a Laravel-based HR management system that integrates features like employee management, payroll, attendance, shift management, and much more. The system includes roles and permissions, where I have implemented detailed access control using the **Spatie Permissions package**. The core modules include:
 
 - **Employee Management**: Add, edit, and view employee details.
@@ -66,7 +66,7 @@ For ease of access and sharing, every module in the HRSoft system includes the a
   - Leave status notifications.
   This helps ensure communication with employees is streamlined and timely.
 
-🔗 https://hrsoft.cloudvenus.net – Check it out to see the system in action.
+🔗 https://payroll.metasoftbd.com – Check it out to see the system in action.
 
 ## 📫 Reach Me
 [LinkedIn](https://linkedin.com/in/shahidur-rahman-nayeem-14b437181) | [Email](mailto:msrnayeem@gmail.com)  
